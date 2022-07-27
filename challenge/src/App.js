@@ -1,4 +1,3 @@
-import './App.css';
 // ========= IMPORT COMPONENTS ========= //
 import Navbar from './Components/Navbar/Navbar';
 import Result from './Components/Result/Result';

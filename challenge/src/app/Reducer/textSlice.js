@@ -2,7 +2,7 @@ import { createSlice , createAsyncThunk} from '@reduxjs/toolkit';
 import axios from 'axios';
 
 const initialState = {
-  text: 'hola',
+  text: '',
 }
 
 export const fetchText = createAsyncThunk(
